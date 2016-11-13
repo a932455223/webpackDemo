@@ -1,0 +1,1 @@
+require('imports?$=jquery!./jqGreen');

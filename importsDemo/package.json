@@ -1,0 +1,19 @@
+{
+  "name": "importsDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.24.1",
+    "imports-loader": "^0.6.5",
+    "jquery": "^3.1.1",
+    "webpack": "^1.13.3"
+  }
+}
