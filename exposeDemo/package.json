@@ -1,0 +1,21 @@
+{
+  "name": "exposeDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "expose-loader": "^0.7.1",
+    "html-webpack-plugin": "^2.24.1",
+    "webpack": "^1.13.3"
+  },
+  "devDependencies": {
+    "exports-loader": "^0.6.3"
+  },
+  "scripts": {
+    "start":"webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
