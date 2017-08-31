@@ -1,2 +1,2 @@
-var hello = require('exports?Window.Hello!./Hello.js');
+var hello = require('exports?window.Hello!./Hello.js');
 hello();

@@ -1,17 +1,15 @@
 {
-  "name": "amdDemo",
+  "name": "hrmDemo",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
-    "start":"webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "html-webpack-plugin": "^2.22.0",
-    "webpack": "^1.13.2"
+    "webpack": "^3.5.5"
   }
 }

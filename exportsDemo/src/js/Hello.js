@@ -1,3 +1,3 @@
-Window.Hello = function(){
+window.Hello = function(){
 	console.log('say hello.');
 }
